@@ -1,5 +1,4 @@
 
-console.log("==================veriable=====================");
 var Name = "Nitin"
 console.log("My Name:",Name);
 
@@ -18,8 +17,3 @@ console.log("My School:", School);
 
 var College ="Annapurna College"
 console.log("My College:",College);
-
-
-
-
-
